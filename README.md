@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aumidbek
-- 👀 I’m interested in .net, developing microservices and football :)
-- 🌱 I’m currently learning ASP.NET Core, ML.NET, golang, microservices
+- 👀 I’m interested in .net, java, developing microservices and football :)
+- 🌱 I’m currently learning ASP.NET Core, ML.NET, Java, microservices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/aumidbek
 
